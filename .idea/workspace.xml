@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6878d21b-1ebd-4a6f-871c-ee61a1e93f88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/property_management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_app/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/property_management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/educa/Documents",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +49,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\educa\PycharmProjects\property_management\property_app" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="property_management" type="Python.DjangoServer" factoryName="Django server">
       <module name="property_management" />
@@ -110,7 +101,7 @@
       <workItem from="1729531181650" duration="82000" />
       <workItem from="1729578019201" duration="1392000" />
       <workItem from="1729582580845" duration="961000" />
-      <workItem from="1729583564218" duration="12414000" />
+      <workItem from="1729583564218" duration="15376000" />
     </task>
     <servers />
   </component>
