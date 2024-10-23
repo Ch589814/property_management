@@ -1,0 +1,55 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20241023054140
+Username: ELIJUDI\Chadejo
+RunAs User: ELIJUDI\Chadejo
+Configuration Name: 
+Machine: ELIJUDI (Microsoft Windows NT 10.0.22631.0)
+Host Application: powershell.exe -NoExit -ExecutionPolicy Bypass -File C:\Program Files\JetBrains\PyCharm 2024.2.3\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1
+Process ID: 15776
+PSVersion: 5.1.22621.4249
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.4249
+BuildVersion: 10.0.22621.4249
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is session_log.txt
+(.venv) PS C:\Users\educa\PycharmProjects\property_management>
+PS>script terminal_output.text
+script : The term 'script' is not recognized as the name of a cmdlet, function, script file, or operable program. Check 
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ script terminal_output.text
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (script:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+script : The term 'script' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the
+name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ script terminal_output.text
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (script:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+(.venv) PS C:\Users\educa\PycharmProjects\property_management>
+PS>session_log.txt
+session_log.txt : The term 'session_log.txt' is not recognized as the name of a cmdlet, function, script file, or 
+operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try 
+again.
+At line:1 char:1
++ session_log.txt
++ ~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (session_log.txt:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+session_log.txt : The term 'session_log.txt' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ session_log.txt
++ ~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (session_log.txt:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+(.venv) PS C:\Users\educa\PycharmProjects\property_management>
