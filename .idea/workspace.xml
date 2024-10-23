@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcdcfc32-9dfc-4bf0-ac6e-51a978ca779c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/property_management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/property_management/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="fcdcfc32-9dfc-4bf0-ac6e-51a978ca779c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +96,7 @@
       <updated>1729695755731</updated>
       <workItem from="1729695761404" duration="5823000" />
       <workItem from="1729701904212" duration="63000" />
-      <workItem from="1729701969442" duration="3302000" />
+      <workItem from="1729701969442" duration="3667000" />
     </task>
     <servers />
   </component>
