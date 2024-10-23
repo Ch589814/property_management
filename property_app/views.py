@@ -1,5 +1,6 @@
 from django.shortcuts import render
 
+<<<<<<< HEAD
 # Create your views here
 from django.shortcuts import render, redirect
 from .forms import PropertyForm
@@ -16,3 +17,6 @@ def add_property(request):
     return render(request, 'property_app/add_property.html', {'form': form})
 
 
+=======
+# Create your views here.
+>>>>>>> b8271ad5ab9117aed3391d0344211e90e6351b83

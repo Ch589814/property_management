@@ -5,6 +5,5 @@ admin.site.register(Property)
 admin.site.register(Unit)
 admin.site.register(Tenant)
 admin.site.register(Lease)
-
-
+from django.contrib import admin
 
